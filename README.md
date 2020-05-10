@@ -1,6 +1,6 @@
 # Fitness network
 
-Static Feed Implemented 
+Fitness network for people to share their workout data. Static Feed Implemented.
 
 https://expo.io/@sebasjicha10/fitness
 
